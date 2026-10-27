@@ -1,0 +1,16 @@
+# Never commit data or generated outputs — the repository contains code only.
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.json
+*.png
+*.svg
+*.md
+!README.md
+*.docx
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+RUN_old.txt
